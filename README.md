@@ -90,8 +90,3 @@ Developed with ❤️ by Ahilesh raja
 
 ```
 
----
-
-Would you like me to **add a “Live Demo” section** (with GitHub Pages deployment steps + demo badge)?  
-It helps make your README more impressive for portfolio or submission purposes.
-```
