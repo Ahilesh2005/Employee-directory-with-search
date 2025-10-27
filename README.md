@@ -39,9 +39,7 @@ employee-directory/
 
 📸 Preview
 
-![Employee Directory Preview](https://user-images.githubusercontent.com/your-github-username/demo-screenshot.png)
-
-*(You can add a screenshot of your web page here after running it.)*
+https://employee-directory-with-search.vercel.app/
 
 ---
 
